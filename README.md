@@ -1,3 +1,3 @@
 # Demo Repo
 
-Plain-text goes here. 
+Plain-text goes here!
